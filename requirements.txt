@@ -1,5 +1,3 @@
-
-faiss-cpu==1.8.0
 openai==1.45.0
 langchain== 0.2.16
 langchain-anthropic== 0.1.23
@@ -14,23 +12,4 @@ langsmith== 0.1.120
 langchain-core== 0.2.39
 langdetect== 1.0.9
 langchain-teddynote== 0.0.31
-crewai== 0.55.2
-pdfplumber==0.11.4
-typing-extensions== 4.12.2
-tiktoken== 0.7.0
-pydantic== 2.9.1
-pydantic-core== 2.23.3
-pypdf2== 3.0.1
-chromadb== 0.4.24
-chroma-hnswlib== 0.7.3
-embedchain== 0.1.121
-tokenizers== 0.19.1
-transformers== 4.44.2
-regex== 2024.9.11
-pdfminer.six==20231228
-httpx== 0.27.2
-huggingface-hub== 0.24.7
-cryptography== 43.0.1
-urllib3== 2.2.3
-SQLAlchemy== 2.0.34
-fastapi== 0.114.1
+streamlit== 1.38.0
